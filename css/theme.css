@@ -49,3 +49,20 @@ body {
 .author a {
     color: #ee4444;
 }
+
+#siteName {
+  font-family: 'Playball', cursive;
+  font-weight: 400;
+  color: #3300FF;
+  line-height: 1.5;
+  margin: 0 auto;
+  text-align: center;
+  width: 250px;
+}
+#siteName a {
+  color: #3300FF;
+  text-decoration: none;
+}
+#siteName a:hover {
+  color: #ccc;
+}
